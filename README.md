@@ -1,7 +1,7 @@
 # ab-lab
 
 
-<div style="text-align:center"><img src="BluRedPills.jpg" /></div>
+<div style="text-align:center"><img src="./BluRedPillls.png" /></div>
 
 # ab-lab: 
 ## A game yard to explore A/B test results
