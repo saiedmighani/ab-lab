@@ -1,18 +1,23 @@
 # ab-lab
+## A python gameyard for outcome experimentation
 
 
-<div style="text-align:center"><img src="./BluRedPillls.png" /></div>
+<div style="text-align:center"><img src="BlueRedPills.png" width="400" height="400"/></div>
 
-# ab-lab: 
-## A game yard to explore A/B test results
+Image adapted from [source](https://www.legalwatercoolerblog.com/2020/03/28/how-are-you-is-there-anything-i-can-do-to-help/)
 
-Please read the full story at the following published Medium blog post:
+##### **Q.** Will you take the blue or red pill? What about in a parallel world?
+##### **A.** Let me run an A/B test first!
+
+- Read the full story in this published Medium blog post:
 [Link](https://towardsdatascience.com/global-warming-and-the-narrative-around-it-lessons-learned-from-nlp-exploration-of-reddit-posts-fb2918d500e9)
 <br>
 
 - ### Project Goal
 
-Although recent alarming observations as a direct consequence of human manipulations have proven global warming as a [scientific fact](https://science.sciencemag.org/content/306/5702/1686/), there remains a long way to direct our concerns towards political actions to rescue the future of our planet and the generations to come. Hence, an imminent way to remedy these impacts to save our planet is to look no further than our human species. For any policy to take place, we need to assess the social awareness, current political debates, in any form.
+- Make a generalized Workflow for conducting on data with variable distribution and quality.
+
+- Although recent alarming observations as a direct consequence of human manipulations have proven global warming as a [scientific fact](https://science.sciencemag.org/content/306/5702/1686/), there remains a long way to direct our concerns towards political actions to rescue the future of our planet and the generations to come. Hence, an imminent way to remedy these impacts to save our planet is to look no further than our human species. For any policy to take place, we need to assess the social awareness, current political debates, in any form.
 
 As social media form a major means of our daily conversations and interactions, they bear meaningful insights towards the current state of narratives. Contents are being generated online, on a daily basis, by many of us around the globe. Having a closer look into these contents may help us have a more holistic understanding of the roots of the current state of debate, or whether the designed policies have been effective.
 
